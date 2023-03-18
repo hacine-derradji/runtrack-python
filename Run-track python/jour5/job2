@@ -1,0 +1,12 @@
+height = int(input("Entrez la hauteur : "))
+width = int(input("Entrez la largeur : "))
+side = "|"
+separator = "-"
+
+for range  in range (height) : 
+    if range == 0 or range == height -1 : 
+        separator = '-'
+    else : 
+        separator = '-'
+        print (side + separator * height + side)
+

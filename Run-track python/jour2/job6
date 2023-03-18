@@ -1,0 +1,6 @@
+def job6 (nombres) : 
+    if nombres > 0 :
+        print ("Positif")
+    if nombres < 0 : 
+        print ("Negatif")
+job6 (5)

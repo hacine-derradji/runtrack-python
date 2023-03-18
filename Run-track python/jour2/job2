@@ -1,0 +1,6 @@
+def my_print_name (name, name1, name2) :
+    print (name, name1, name2)    
+ 
+my_print_name ("Paul,", "Jacques,", "jean-paul")
+
+  

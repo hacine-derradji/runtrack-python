@@ -1,0 +1,8 @@
+def nombres () :
+    for nombre in range (1, 101, 1) :
+     if nombre == 37  or nombre == 26 or nombre == 88 :
+   
+        continue
+     print (nombre)  
+     
+nombres ()

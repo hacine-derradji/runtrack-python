@@ -1,0 +1,4 @@
+Ma_string = ("Je suis une string")
+
+print (Ma_string)
+    

@@ -1,0 +1,11 @@
+def prenom () :
+    nom = input ("Entrez votre prenom : ")
+    print ("Hello " + (nom))
+prenom ()
+
+
+
+
+    
+
+

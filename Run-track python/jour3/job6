@@ -1,0 +1,9 @@
+alphabet = "abcdefghijklmnopqrstuvwxyz" * 10
+rows = 10  
+
+for i in range(rows):
+  
+    print(" " * (rows - i - 1), end="")
+    
+   
+    print(alphabet[:i*2+1])
